@@ -1,4 +1,4 @@
-# MysticoN-C64
+# MysticoN++ C64
 MysticoN++ C64 style converted for Notepad++ 7.9.x (thanks to ChatGPT 3.5)
 
 Inspired by:
