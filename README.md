@@ -1,5 +1,5 @@
 # MysticoN++ C64
-Mystico C64 theme for VS Code converted for Notepad++ 7.9.x (thanks to ChatGPT 3.5)
+Mystico C64 theme for VS Code converted for Notepad++ 7.9.x/8.x (thanks to ChatGPT 3.5)
 
 **Installation:**
 <br>Copy *.xml file to %appdata%\Notepad++\themes 
