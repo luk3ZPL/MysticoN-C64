@@ -1377,7 +1377,7 @@ License:             GPL2
         <WidgetStyle name="Incremental highlight all" styleID="28" bgColor="C3BF9F" fgColor="FFCAB0" fontSize="" fontStyle="0" />
         <WidgetStyle name="Tags match highlighting" styleID="27" bgColor="C6C600" fgColor="C8C8C8" fontStyle="0" />
         <WidgetStyle name="Tags attribute" styleID="26" bgColor="894036" fgColor="B4B4B4" fontStyle="0" />
-        <WidgetStyle name="Active tab focused indicator" styleID="0" fgColor="FFFFFF" bgColor="FF0000" fontStyle="0" />
+        <WidgetStyle name="Active tab focused indicator" styleID="0" fgColor="3E31A2" bgColor="FF0000" fontStyle="0" />
         <WidgetStyle name="Active tab unfocused indicator" styleID="0" fgColor="3FBA89" bgColor="80FF00" fontStyle="0" />
         <WidgetStyle name="Active tab text" styleID="0" fgColor="101010" bgColor="C0C0C0" fontSize="10" fontStyle="0" />
         <WidgetStyle name="Inactive tabs" styleID="0" fgColor="808080" bgColor="C0C0C0" fontStyle="0" />
