@@ -5,4 +5,4 @@ Inspired by:
 1. Mystico C64 theme for VS Code: https://github.com/chibanti/mystico-c64-vscode-theme
 2. Zenburn theme for N++ by Jani Kesänen: https://github.com/jkesanen/notepadplusplus-zenburn
 
-[<img src="https://github.com/luk3ZPL/MysticoNpp-C64/assets/4522457/55a9f83b-e380-43be-88c1-d10d493c9800" width="100" height="100">](https://github.com/luk3ZPL/MysticoNpp-C64/assets/4522457/55a9f83b-e380-43be-88c1-d10d493c9800)
+[<img src="https://github.com/luk3ZPL/MysticoNpp-C64/assets/4522457/55a9f83b-e380-43be-88c1-d10d493c9800" width="520" height="344">](https://github.com/luk3ZPL/MysticoNpp-C64/assets/4522457/55a9f83b-e380-43be-88c1-d10d493c9800)
