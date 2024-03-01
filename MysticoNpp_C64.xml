@@ -8,7 +8,7 @@ Description:         Mystico C64 theme for VS Code converted for Notepad++ 7.9.x
 					 Zenburn theme for N++ by Jani Kesänen: https://github.com/jkesanen/notepadplusplus-zenburn
 Supported languages: Most languages supported.
 Created by:          luk3Z (luk3z at duck.com) # https://github.com/luk3ZPL/MysticoNpp-C64
-Released:            24.12.2023
+Released:            24.12.2023 / Updated 1.03.2024
 License:             GPL2
 -->
 <NotepadPlus>
@@ -1362,7 +1362,7 @@ License:             GPL2
         <WidgetStyle name="Caret colour" styleID="2069" fgColor="8FAF9F" bgColor="264F78" fontStyle="0" />
         <WidgetStyle name="Edge colour" styleID="0" fgColor="4F5F5F" bgColor="112435" fontSize="" fontStyle="0" />
         <WidgetStyle name="Line number margin" styleID="33" fgColor="FFFFFF" bgColor="7C70DA" fontName="" fontStyle="0" fontSize="" />
-        <WidgetStyle name="Bookmark margin" styleID="0" bgColor="0C0C0C" fgColor="2B91AF" fontSize="" fontStyle="0" />
+        <WidgetStyle name="Bookmark margin" styleID="0" bgColor="7C70DA" fgColor="2B91AF" fontSize="" fontStyle="0" />
         <WidgetStyle name="Fold" styleID="0" fgColor="707070" bgColor="101010" fontSize="" fontStyle="0" />
         <WidgetStyle name="Fold active" styleID="0" fgColor="7F9F7F" bgColor="1E1E1E" fontSize="" fontStyle="0" />
         <WidgetStyle name="Fold margin" styleID="0" fgColor="181818" bgColor="101010" fontSize="" fontStyle="0" />
